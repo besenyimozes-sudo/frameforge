@@ -36,6 +36,7 @@ I've included my recommended filter settings so you can try them yourself. You m
 Your graphics settings affect how your game looks while you're playing and recording.
 
 This section includes my in-game settings, which aim to balance visual quality with smooth performance. Getting these right before recording can help you capture footage that looks the way you want from the start.
+<img width="919" height="560" alt="image" src="https://github.com/user-attachments/assets/e97f1b41-3de3-4e4c-85f9-b34c7382885c" />
 
 ### ✂️ CapCut — Export Your Clips Properly
 
