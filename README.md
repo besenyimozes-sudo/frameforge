@@ -27,6 +27,7 @@ Depending on the game and available filters, you can adjust things like:
 - **Sharpness:** Make details look clearer.
 - **Vibrance and colour:** Make colours stand out more.
 - **Brightness and contrast:** Adjust how light, dark, and defined the image looks.
+<img width="1439" height="899" alt="Screenshot 2026-10-26 032221" src="https://github.com/user-attachments/assets/ae1eaf67-616a-413d-adb5-0ca3a2557e90" />
 
 I've included my recommended filter settings so you can try them yourself. You may need to adjust them slightly to suit your game and personal preference.
 
